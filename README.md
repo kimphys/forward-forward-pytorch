@@ -3,7 +3,6 @@
 ## Introduction
 
 This is a PyTorch implementation of the forward-forward algorithm. This project is inspired by an article below.
-* Mahmudul Hasan, Jonghyun Choi, Jan Neumann, Amit K. Roy-Chowdhury, Learning Temporal Regularity in Video Sequences (2016), arXiv:1604.04574.
 * Geoffrey Hinton, The Forward-Forward Algorithm: Some Preliminary Investigations, arXiv.2212.13345.
 
 ## Preresquisties
